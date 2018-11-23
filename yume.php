@@ -11,6 +11,8 @@ echo 'hello there!!!';
     <title>新規ページ</title>
 </head>
 <body>
+
+    <p>只今絶賛二日酔い中</p>
     
 </body>
 </html>
